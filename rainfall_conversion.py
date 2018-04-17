@@ -16,11 +16,10 @@ def main():
     is_raining()
 
 
-# I like to change the file 
+# I like to change the file
 
 if __name__ == '__main__':
     main()
 
-
-# Changes were made and now i can push 
-	
+int a = 22
+# Changes were made and now i can push
